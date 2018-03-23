@@ -34,33 +34,41 @@ Somewhere between Years 2 and 3, we arrived at a research question we could all 
 
 At the same time, we wanted to avoid the pitfalls of re-enacting history or assuming we could inhabit the subject positions of people in the past (or the present, for that matter).  
 
-## A method was developed.
+## A methodology was developed.
 
-We called it "prototyping the past." Partly informed by "live methods" [(Back and Puwar 2012)](http://journals.sagepub.com/doi/pdf/10.1111/j.1467-954X.2012.02114.x), or the creation of mechanisms that adapt, re-purpose, and take advantage of media's analytic and empirical capacities (see page 9), as well as all of the work mentioned above, this form of prototyping balances immersion with critical distance, attending to the material particulars of technologies while also foregrounding embodied and situated negotations with them. It asks "what if" of the present (as oppossed to counterfactuals, which tend to reimagine the past).
+We called it "prototyping the past." Partly informed by "live methods" [(Back and Puwar 2012)](http://journals.sagepub.com/doi/pdf/10.1111/j.1467-954X.2012.02114.x), or the creation of mechanisms that adapt, re-purpose, and take advantage of media's analytic and empirical capacities (see page 9), as well as all of the work mentioned above, this form of prototyping balances immersion with critical distance, attending to the material particulars of technologies while also foregrounding embodied and situated negotations with them. It asks "what if" of the present (as oppossed to counterfactuals, which tend to reimagine the past), and it involves the combination of archival work with prototyping early/historical technologies. It doesn't really invest in "how did it work?" or "what was it function?" It's not preoccupied with "revealing" or "discovering" the "hidden," either. Rather, it negotiates with contingencies that will forever be contingencies. And then it foregrounds them. 
 
 ## Equipment arrived. 
 
-Text.
+We waited a few years before we committed to particular machines. But in Year 3 we began learning how to use laser cutters, routers, scanners, and 3D modeling and fabrication for historical work. Here's a [spreadsheet](https://docs.google.com/spreadsheets/d/1Hran2uky2vnXbjTfQ0RPsLhOmaVYKS2cY3X6Q9qMeSo/edit?usp=sharing) of our inventory. We developed an ["infrastructural disposition"](http://maker.uvic.ca/bclib15/) [(Parks and Starosielski 2015)](https://www.press.uillinois.edu/books/catalog/26bxm4qd9780252039362.html) toward our research, and [Visual Arts at UVic](https://finearts.uvic.ca/research/blog/2015/07/13/uvics-digital-fabrication-lab-the-first-of-its-kind-in-north-america/) graciously provided us with space and other significant forms of support.  
+
+The equipment became central to the methodology, but we tried to avoid appealing to the wow and whiz-bang factors of it all. We didn't want the research to be about the novelty of new gadgets. We wanted it to be about labour, negotiation, embodiment, and the contingencies of design.  
 
 ## Prototypes were made (and remade).
 
-Text.
+Durings Years 3, 4, and 5, we prototyped several technologies as open-source "kits" intended for experimentation and re-purposing: kits for early [optophones](https://github.com/uvicmakerlab/optophoneKit), [magnetic recording](https://github.com/uvicmakerlab/magneticRecordingKit), and [wearables](https://github.com/uvicmakerlab/earlyWearablesKit), for instance. Each of these was supported by rather thorough README files, blending the archive with the prototype. We also experimented with exhibits, including [*Jacob: Recording on Wire*](http://maker.uvic.ca/jacob2/), which we installed in the Audain Gallery at UVic. 
+
+These materials have been used in classrooms, deposited with memory institutions, and re-purposed by several scholars, including [Helen J. Burgess](https://english.chass.ncsu.edu/faculty_staff/hjburges).
 
 ## Papers were even published. 
 
-Text.
+As we refined the methodology and prototypes, we published a few papers detailing it all: ["Prototyping the Past,"](http://visiblelanguagejournal.com/issue/172/article/1232), ["Optophonic Reading, Prototyping Optophones"](http://amodern.net/article/optophonic-reading/) (with Mara Mills), and ["Fluxkits for Scholarly Communication"](http://hyperrhiz.io/hyperrhiz13/workshops-kits/early-wearables-essay.html), for example. I also worked on two related, edited collections for [Minnesota](https://www.upress.umn.edu/book-division/books/making-things-and-drawing-boundaries) and [Routlege](https://www.routledge.com/The-Routledge-Companion-to-Media-Studies-and-Digital-Humanities/Sayers/p/book/9781138844308). 
+
+We're now cooking up [*An Illustrated Guide to Prototyping the Past*](http://maker.uvic.ca/ptp/).  
+
+Here, a key finding was that the methodology, prototypes, and kits did not stand on their own; they corresponded with writing (also a form of making). This correspondence encouraged us to bypass the trap of privileging "things" over essays and essays over "things." Also, many people in the MLab preferred certain modes of composition and types of practices (e.g., prototyping, archival work, media theory, illustration, and computer programming). We did what we could to provide space and time for this preferences.   
 
 ## It all gravitated toward the classroom. 
 
-Text.
+Pedagogy was always central to the MLab; however, between Years 3 and 5 we started to experiment with how la practices might transfer to the classroom. We co-taught workshops at local schools, and we also taught [one-week intensive courses about physical computing and fabrication](https://github.com/uvicmakerlab/dhsi2016/blob/master/index.md).  
 
 ## Undergrad courses were taught. 
 
-Text.
+These experiments were formalized in Digital Humanities courses such as ["Things to Think With: Modelling and Printing 3D Objects,"](http://uvicmakerlab.github.io/dhum250/), which combined material culture studies and historical inquiry with the MLab's CNC techniques, and ["What's in a Game?"](http://jentery.github.io/dhum350/), which drew on [Anna Anthropy's work](https://www.sevenstories.com/books/3459-rise-of-the-videogame-zinesters) and combined it with the MLab's proclivities for prototyping. Most recently, I taught "[Prototyping Pasts and Futures"](https://jentery.github.io/ts200/) at UVic. It asked students to conjecture by reading fiction (by Ursula K. Le Guin), studying keyword entries (from media and cultural studies), and prototyping patents, with video, with paper, and through scenarios.    
 
 ## Grad seminars, too. 
 
-Text.
+I've tried similar things at the graduate level, with ["Prototyping Texts"](https://jentery.github.io/508v2/) and ["What's in a Game?"](https://jentery.github.io/508v3/), which I'm trying again next year in [tabletop form](https://jentery.github.io/508v3/tabletop.html) to focus on design and testing instead of programming and development. Following Matthew Kirschenbaum's work (in [Harrigan and Wardrip-Fruin 2009](https://mitpress.mit.edu/books/third-person), I'm interested in understanding tabletop games as paper computers, and the MLab frequently relied on low-tech, off-screen techniques for its research. 
 
 ## Learning outcomes were articulated. 
 
