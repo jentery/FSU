@@ -68,7 +68,7 @@ These experiments were formalized in Digital Humanities courses such as ["Things
 
 ## Grad seminars, too. 
 
-I've tried similar things at the graduate level, with ["Prototyping Texts"](https://jentery.github.io/508v2/) and ["What's in a Game?"](https://jentery.github.io/508v3/), which I'm trying again next year in [tabletop form](https://jentery.github.io/508v3/tabletop.html) to focus on design and testing instead of programming and development. Following Matthew Kirschenbaum's work (in [Harrigan and Wardrip-Fruin 2009])(https://mitpress.mit.edu/books/third-person), I'm interested in tabletop games as paper computers, and the MLab frequently relied on low-tech, off-screen techniques for its research. 
+I've tried similar things at the graduate level, with ["Prototyping Texts"](https://jentery.github.io/508v2/) and ["What's in a Game?"](https://jentery.github.io/508v3/), which I'm trying again next year in [tabletop form](https://jentery.github.io/508v3/tabletop.html) to focus on design and testing instead of programming and development. Following Matthew Kirschenbaum's work (in [Harrigan and Wardrip-Fruin 2009])(https://mitpress.mit.edu/books/third-person)), I'm interested in tabletop games as paper computers, and the MLab frequently relied on low-tech, off-screen techniques for its research. 
 
 ## Learning outcomes were articulated. 
 
