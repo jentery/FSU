@@ -1,6 +1,6 @@
 # From Lab to Classroom: Live Methods and Prototyping in the Arts and Humanities
 
-Florida State University Digital Scholars | 23 March 2018 
+[Florida State University Digital Scholars](https://digitalscholars.wordpress.com/2018/03/10/prototyping-as-pedagogy/) | 23 March 2018 
 
 Jentery Sayers | University of Victoria | Faculty of the Humanities | [Department of English](https://www.uvic.ca/humanities/english/) | [MLab in the Humanities](http://maker.uvic.ca/) | on the traditional territory of the Lkwungen-speaking peoples and the Songhees, Esquimalt, and WSÁNEĆ peoples whose historical relationships with the land continue to this day
 
