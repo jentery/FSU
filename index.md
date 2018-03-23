@@ -12,13 +12,17 @@ We wanted to perform media theories and conjecture about media histories. Tara M
 
 ## Grant proposals were written.
 
-We received support from the Social Sciences and Humanities Research Council (for research), the Canada Foundation for Innovation (for infrastructure), and the British Columbia Knowledge Development Fund (for infrastructure). [Bill Turkel](https://williamjturkel.net/) joined us on the SSHRC grant.
+We received support from the Modernist Versions Project (for research and infrastructure), Social Sciences and Humanities Research Council (for research), the Canada Foundation for Innovation (for infrastructure), and the British Columbia Knowledge Development Fund (for infrastructure). [Bill Turkel](https://williamjturkel.net/) joined us on the SSHRC grant. He practices history through physical computing and fabrication techniques, often in collaboration with other historians in Science and Technology Studies (STS): "New Old Things" [(2012)](http://www.cjc-online.ca/index.php/journal/article/view/2506), with Devon Elliott and Robert MacDougall, and "Doing History by Reverse Engineering Electronic Devices" [(2018)](https://muse.jhu.edu/chapter/2068861), with Yana Boeva, Devon Elliott, Edward Jones-Imhotep, and Shezan Muhammedi, for instance.  
 
-## Researchers were provided with space and funding. 
+During the grant-writing years, we often used terms such as "enduring ephemeral" [(Chun 2008)](http://www.jstor.org/stable/10.1086/595632), "reverse engineering" ([Balsamo 2011)](https://www.dukeupress.edu/designing-culture), "technological imagination" (also Balsamo), "entanglement" ([Barad 2007])(https://www.dukeupress.edu/meeting-the-universe-halfway), "situated knowledges [(Haraway 1988)](https://www.jstor.org/stable/3178066?seq=1#page_scan_tab_contents), "screen essentialism" [(Montfort 2004)](https://nickm.com/writing/essays/continuous_paper_mla.html) and [(Kirschenbaum 2008)](https://mitpress.mit.edu/books/mechanisms), and "digital labor" [(Scholz 2013)](https://www.routledge.com/Digital-Labor-The-Internet-as-Playground-and-Factory/Scholz/p/book/9780415896955). 
+
+Together, these terms pointed us away from the "workstation" model for labs work toward messier, embodied forms of trial and error. The research corresponded less with legacies of humanities computing (e.g., digitization and encoding) and digital humanities (e.g., corpus linguistics, data visualization, and macro-analysis) and more with experimental media. McPherson: "*in and through* our objects" (as distinct from objects *of* inquiry). 
+
+## Researchers were given space and funding. 
 
 Text.
 
-## A research question was articulated. 
+## A question was articulated. 
 
 Text.
 
@@ -38,15 +42,15 @@ Text.
 
 Text.
 
-## All of this gravitated toward the classroom. 
+## It all gravitated toward the classroom. 
 
 Text.
 
-## Undergrad courses (in Digital Humanities) were taught. 
+## Undergrad courses were taught. 
 
 Text.
 
-## Grad seminars (in English) were taught, too. 
+## Grad seminars, too. 
 
 Text.
 
